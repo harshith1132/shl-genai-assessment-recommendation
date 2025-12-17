@@ -1,0 +1,18 @@
+shl_assessment/
+│
+├── scraper/
+│   └── scrape_catalog.py          # Scrapes SHL catalog → assessments.json
+│
+├── data/
+│   └── assessments.json           # Output of scraper (created after running scraper)
+│
+├── embeddings/
+│   ├── create_embeddings.py       # Creates embeddings from assessments.json
+│   ├── embeddings.npy             # Vector embeddings (created after running script)
+│   └── metadata.json              # Assessment metadata (created after running script)
+│
+├── api/
+│   └── main.py                    # FastAPI backend (/health, /recommend)
+│
+├── frontend/                      # (Optional)
+│   └── app

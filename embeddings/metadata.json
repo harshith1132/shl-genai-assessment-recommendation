@@ -1,0 +1,4402 @@
+[
+  {
+    "name": "Verify Assessment 1",
+    "url": "https://www.shl.com/solutions/products/verify-1/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 2",
+    "url": "https://www.shl.com/solutions/products/sjt-2/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 3",
+    "url": "https://www.shl.com/solutions/products/technical-3/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 4",
+    "url": "https://www.shl.com/solutions/products/opq-4/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 5",
+    "url": "https://www.shl.com/solutions/products/verify-5/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 6",
+    "url": "https://www.shl.com/solutions/products/sjt-6/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 7",
+    "url": "https://www.shl.com/solutions/products/technical-7/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 8",
+    "url": "https://www.shl.com/solutions/products/opq-8/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 9",
+    "url": "https://www.shl.com/solutions/products/verify-9/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 10",
+    "url": "https://www.shl.com/solutions/products/sjt-10/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 11",
+    "url": "https://www.shl.com/solutions/products/technical-11/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 12",
+    "url": "https://www.shl.com/solutions/products/opq-12/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 13",
+    "url": "https://www.shl.com/solutions/products/verify-13/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 14",
+    "url": "https://www.shl.com/solutions/products/sjt-14/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 15",
+    "url": "https://www.shl.com/solutions/products/technical-15/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 16",
+    "url": "https://www.shl.com/solutions/products/opq-16/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 17",
+    "url": "https://www.shl.com/solutions/products/verify-17/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 18",
+    "url": "https://www.shl.com/solutions/products/sjt-18/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 19",
+    "url": "https://www.shl.com/solutions/products/technical-19/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 20",
+    "url": "https://www.shl.com/solutions/products/opq-20/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 21",
+    "url": "https://www.shl.com/solutions/products/verify-21/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 22",
+    "url": "https://www.shl.com/solutions/products/sjt-22/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 23",
+    "url": "https://www.shl.com/solutions/products/technical-23/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 24",
+    "url": "https://www.shl.com/solutions/products/opq-24/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 25",
+    "url": "https://www.shl.com/solutions/products/verify-25/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 26",
+    "url": "https://www.shl.com/solutions/products/sjt-26/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 27",
+    "url": "https://www.shl.com/solutions/products/technical-27/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 28",
+    "url": "https://www.shl.com/solutions/products/opq-28/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 29",
+    "url": "https://www.shl.com/solutions/products/verify-29/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 30",
+    "url": "https://www.shl.com/solutions/products/sjt-30/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 31",
+    "url": "https://www.shl.com/solutions/products/technical-31/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 32",
+    "url": "https://www.shl.com/solutions/products/opq-32/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 33",
+    "url": "https://www.shl.com/solutions/products/verify-33/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 34",
+    "url": "https://www.shl.com/solutions/products/sjt-34/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 35",
+    "url": "https://www.shl.com/solutions/products/technical-35/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 36",
+    "url": "https://www.shl.com/solutions/products/opq-36/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 37",
+    "url": "https://www.shl.com/solutions/products/verify-37/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 38",
+    "url": "https://www.shl.com/solutions/products/sjt-38/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 39",
+    "url": "https://www.shl.com/solutions/products/technical-39/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 40",
+    "url": "https://www.shl.com/solutions/products/opq-40/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 41",
+    "url": "https://www.shl.com/solutions/products/verify-41/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 42",
+    "url": "https://www.shl.com/solutions/products/sjt-42/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 43",
+    "url": "https://www.shl.com/solutions/products/technical-43/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 44",
+    "url": "https://www.shl.com/solutions/products/opq-44/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 45",
+    "url": "https://www.shl.com/solutions/products/verify-45/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 46",
+    "url": "https://www.shl.com/solutions/products/sjt-46/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 47",
+    "url": "https://www.shl.com/solutions/products/technical-47/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 48",
+    "url": "https://www.shl.com/solutions/products/opq-48/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 49",
+    "url": "https://www.shl.com/solutions/products/verify-49/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 50",
+    "url": "https://www.shl.com/solutions/products/sjt-50/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 51",
+    "url": "https://www.shl.com/solutions/products/technical-51/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 52",
+    "url": "https://www.shl.com/solutions/products/opq-52/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 53",
+    "url": "https://www.shl.com/solutions/products/verify-53/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 54",
+    "url": "https://www.shl.com/solutions/products/sjt-54/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 55",
+    "url": "https://www.shl.com/solutions/products/technical-55/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 56",
+    "url": "https://www.shl.com/solutions/products/opq-56/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 57",
+    "url": "https://www.shl.com/solutions/products/verify-57/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 58",
+    "url": "https://www.shl.com/solutions/products/sjt-58/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 59",
+    "url": "https://www.shl.com/solutions/products/technical-59/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 60",
+    "url": "https://www.shl.com/solutions/products/opq-60/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 61",
+    "url": "https://www.shl.com/solutions/products/verify-61/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 62",
+    "url": "https://www.shl.com/solutions/products/sjt-62/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 63",
+    "url": "https://www.shl.com/solutions/products/technical-63/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 64",
+    "url": "https://www.shl.com/solutions/products/opq-64/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 65",
+    "url": "https://www.shl.com/solutions/products/verify-65/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 66",
+    "url": "https://www.shl.com/solutions/products/sjt-66/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 67",
+    "url": "https://www.shl.com/solutions/products/technical-67/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 68",
+    "url": "https://www.shl.com/solutions/products/opq-68/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 69",
+    "url": "https://www.shl.com/solutions/products/verify-69/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 70",
+    "url": "https://www.shl.com/solutions/products/sjt-70/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 71",
+    "url": "https://www.shl.com/solutions/products/technical-71/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 72",
+    "url": "https://www.shl.com/solutions/products/opq-72/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 73",
+    "url": "https://www.shl.com/solutions/products/verify-73/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 74",
+    "url": "https://www.shl.com/solutions/products/sjt-74/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 75",
+    "url": "https://www.shl.com/solutions/products/technical-75/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 76",
+    "url": "https://www.shl.com/solutions/products/opq-76/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 77",
+    "url": "https://www.shl.com/solutions/products/verify-77/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 78",
+    "url": "https://www.shl.com/solutions/products/sjt-78/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 79",
+    "url": "https://www.shl.com/solutions/products/technical-79/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 80",
+    "url": "https://www.shl.com/solutions/products/opq-80/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 81",
+    "url": "https://www.shl.com/solutions/products/verify-81/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 82",
+    "url": "https://www.shl.com/solutions/products/sjt-82/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 83",
+    "url": "https://www.shl.com/solutions/products/technical-83/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 84",
+    "url": "https://www.shl.com/solutions/products/opq-84/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 85",
+    "url": "https://www.shl.com/solutions/products/verify-85/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 86",
+    "url": "https://www.shl.com/solutions/products/sjt-86/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 87",
+    "url": "https://www.shl.com/solutions/products/technical-87/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 88",
+    "url": "https://www.shl.com/solutions/products/opq-88/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 89",
+    "url": "https://www.shl.com/solutions/products/verify-89/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 90",
+    "url": "https://www.shl.com/solutions/products/sjt-90/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 91",
+    "url": "https://www.shl.com/solutions/products/technical-91/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 92",
+    "url": "https://www.shl.com/solutions/products/opq-92/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 93",
+    "url": "https://www.shl.com/solutions/products/verify-93/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 94",
+    "url": "https://www.shl.com/solutions/products/sjt-94/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 95",
+    "url": "https://www.shl.com/solutions/products/technical-95/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 96",
+    "url": "https://www.shl.com/solutions/products/opq-96/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 97",
+    "url": "https://www.shl.com/solutions/products/verify-97/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 98",
+    "url": "https://www.shl.com/solutions/products/sjt-98/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 99",
+    "url": "https://www.shl.com/solutions/products/technical-99/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 100",
+    "url": "https://www.shl.com/solutions/products/opq-100/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 101",
+    "url": "https://www.shl.com/solutions/products/verify-101/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 102",
+    "url": "https://www.shl.com/solutions/products/sjt-102/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 103",
+    "url": "https://www.shl.com/solutions/products/technical-103/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 104",
+    "url": "https://www.shl.com/solutions/products/opq-104/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 105",
+    "url": "https://www.shl.com/solutions/products/verify-105/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 106",
+    "url": "https://www.shl.com/solutions/products/sjt-106/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 107",
+    "url": "https://www.shl.com/solutions/products/technical-107/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 108",
+    "url": "https://www.shl.com/solutions/products/opq-108/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 109",
+    "url": "https://www.shl.com/solutions/products/verify-109/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 110",
+    "url": "https://www.shl.com/solutions/products/sjt-110/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 111",
+    "url": "https://www.shl.com/solutions/products/technical-111/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 112",
+    "url": "https://www.shl.com/solutions/products/opq-112/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 113",
+    "url": "https://www.shl.com/solutions/products/verify-113/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 114",
+    "url": "https://www.shl.com/solutions/products/sjt-114/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 115",
+    "url": "https://www.shl.com/solutions/products/technical-115/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 116",
+    "url": "https://www.shl.com/solutions/products/opq-116/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 117",
+    "url": "https://www.shl.com/solutions/products/verify-117/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 118",
+    "url": "https://www.shl.com/solutions/products/sjt-118/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 119",
+    "url": "https://www.shl.com/solutions/products/technical-119/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 120",
+    "url": "https://www.shl.com/solutions/products/opq-120/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 121",
+    "url": "https://www.shl.com/solutions/products/verify-121/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 122",
+    "url": "https://www.shl.com/solutions/products/sjt-122/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 123",
+    "url": "https://www.shl.com/solutions/products/technical-123/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 124",
+    "url": "https://www.shl.com/solutions/products/opq-124/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 125",
+    "url": "https://www.shl.com/solutions/products/verify-125/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 126",
+    "url": "https://www.shl.com/solutions/products/sjt-126/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 127",
+    "url": "https://www.shl.com/solutions/products/technical-127/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 128",
+    "url": "https://www.shl.com/solutions/products/opq-128/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 129",
+    "url": "https://www.shl.com/solutions/products/verify-129/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 130",
+    "url": "https://www.shl.com/solutions/products/sjt-130/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 131",
+    "url": "https://www.shl.com/solutions/products/technical-131/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 132",
+    "url": "https://www.shl.com/solutions/products/opq-132/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 133",
+    "url": "https://www.shl.com/solutions/products/verify-133/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 134",
+    "url": "https://www.shl.com/solutions/products/sjt-134/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 135",
+    "url": "https://www.shl.com/solutions/products/technical-135/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 136",
+    "url": "https://www.shl.com/solutions/products/opq-136/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 137",
+    "url": "https://www.shl.com/solutions/products/verify-137/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 138",
+    "url": "https://www.shl.com/solutions/products/sjt-138/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 139",
+    "url": "https://www.shl.com/solutions/products/technical-139/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 140",
+    "url": "https://www.shl.com/solutions/products/opq-140/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 141",
+    "url": "https://www.shl.com/solutions/products/verify-141/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 142",
+    "url": "https://www.shl.com/solutions/products/sjt-142/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 143",
+    "url": "https://www.shl.com/solutions/products/technical-143/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 144",
+    "url": "https://www.shl.com/solutions/products/opq-144/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 145",
+    "url": "https://www.shl.com/solutions/products/verify-145/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 146",
+    "url": "https://www.shl.com/solutions/products/sjt-146/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 147",
+    "url": "https://www.shl.com/solutions/products/technical-147/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 148",
+    "url": "https://www.shl.com/solutions/products/opq-148/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 149",
+    "url": "https://www.shl.com/solutions/products/verify-149/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 150",
+    "url": "https://www.shl.com/solutions/products/sjt-150/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 151",
+    "url": "https://www.shl.com/solutions/products/technical-151/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 152",
+    "url": "https://www.shl.com/solutions/products/opq-152/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 153",
+    "url": "https://www.shl.com/solutions/products/verify-153/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 154",
+    "url": "https://www.shl.com/solutions/products/sjt-154/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 155",
+    "url": "https://www.shl.com/solutions/products/technical-155/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 156",
+    "url": "https://www.shl.com/solutions/products/opq-156/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 157",
+    "url": "https://www.shl.com/solutions/products/verify-157/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 158",
+    "url": "https://www.shl.com/solutions/products/sjt-158/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 159",
+    "url": "https://www.shl.com/solutions/products/technical-159/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 160",
+    "url": "https://www.shl.com/solutions/products/opq-160/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 161",
+    "url": "https://www.shl.com/solutions/products/verify-161/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 162",
+    "url": "https://www.shl.com/solutions/products/sjt-162/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 163",
+    "url": "https://www.shl.com/solutions/products/technical-163/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 164",
+    "url": "https://www.shl.com/solutions/products/opq-164/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 165",
+    "url": "https://www.shl.com/solutions/products/verify-165/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 166",
+    "url": "https://www.shl.com/solutions/products/sjt-166/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 167",
+    "url": "https://www.shl.com/solutions/products/technical-167/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 168",
+    "url": "https://www.shl.com/solutions/products/opq-168/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 169",
+    "url": "https://www.shl.com/solutions/products/verify-169/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 170",
+    "url": "https://www.shl.com/solutions/products/sjt-170/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 171",
+    "url": "https://www.shl.com/solutions/products/technical-171/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 172",
+    "url": "https://www.shl.com/solutions/products/opq-172/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 173",
+    "url": "https://www.shl.com/solutions/products/verify-173/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 174",
+    "url": "https://www.shl.com/solutions/products/sjt-174/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 175",
+    "url": "https://www.shl.com/solutions/products/technical-175/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 176",
+    "url": "https://www.shl.com/solutions/products/opq-176/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 177",
+    "url": "https://www.shl.com/solutions/products/verify-177/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 178",
+    "url": "https://www.shl.com/solutions/products/sjt-178/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 179",
+    "url": "https://www.shl.com/solutions/products/technical-179/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 180",
+    "url": "https://www.shl.com/solutions/products/opq-180/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 181",
+    "url": "https://www.shl.com/solutions/products/verify-181/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 182",
+    "url": "https://www.shl.com/solutions/products/sjt-182/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 183",
+    "url": "https://www.shl.com/solutions/products/technical-183/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 184",
+    "url": "https://www.shl.com/solutions/products/opq-184/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 185",
+    "url": "https://www.shl.com/solutions/products/verify-185/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 186",
+    "url": "https://www.shl.com/solutions/products/sjt-186/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 187",
+    "url": "https://www.shl.com/solutions/products/technical-187/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 188",
+    "url": "https://www.shl.com/solutions/products/opq-188/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 189",
+    "url": "https://www.shl.com/solutions/products/verify-189/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 190",
+    "url": "https://www.shl.com/solutions/products/sjt-190/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 191",
+    "url": "https://www.shl.com/solutions/products/technical-191/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 192",
+    "url": "https://www.shl.com/solutions/products/opq-192/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 193",
+    "url": "https://www.shl.com/solutions/products/verify-193/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 194",
+    "url": "https://www.shl.com/solutions/products/sjt-194/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 195",
+    "url": "https://www.shl.com/solutions/products/technical-195/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 196",
+    "url": "https://www.shl.com/solutions/products/opq-196/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 197",
+    "url": "https://www.shl.com/solutions/products/verify-197/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 198",
+    "url": "https://www.shl.com/solutions/products/sjt-198/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 199",
+    "url": "https://www.shl.com/solutions/products/technical-199/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 200",
+    "url": "https://www.shl.com/solutions/products/opq-200/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 201",
+    "url": "https://www.shl.com/solutions/products/verify-201/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 202",
+    "url": "https://www.shl.com/solutions/products/sjt-202/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 203",
+    "url": "https://www.shl.com/solutions/products/technical-203/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 204",
+    "url": "https://www.shl.com/solutions/products/opq-204/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 205",
+    "url": "https://www.shl.com/solutions/products/verify-205/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 206",
+    "url": "https://www.shl.com/solutions/products/sjt-206/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 207",
+    "url": "https://www.shl.com/solutions/products/technical-207/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 208",
+    "url": "https://www.shl.com/solutions/products/opq-208/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 209",
+    "url": "https://www.shl.com/solutions/products/verify-209/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 210",
+    "url": "https://www.shl.com/solutions/products/sjt-210/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 211",
+    "url": "https://www.shl.com/solutions/products/technical-211/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 212",
+    "url": "https://www.shl.com/solutions/products/opq-212/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 213",
+    "url": "https://www.shl.com/solutions/products/verify-213/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 214",
+    "url": "https://www.shl.com/solutions/products/sjt-214/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 215",
+    "url": "https://www.shl.com/solutions/products/technical-215/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 216",
+    "url": "https://www.shl.com/solutions/products/opq-216/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 217",
+    "url": "https://www.shl.com/solutions/products/verify-217/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 218",
+    "url": "https://www.shl.com/solutions/products/sjt-218/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 219",
+    "url": "https://www.shl.com/solutions/products/technical-219/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 220",
+    "url": "https://www.shl.com/solutions/products/opq-220/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 221",
+    "url": "https://www.shl.com/solutions/products/verify-221/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 222",
+    "url": "https://www.shl.com/solutions/products/sjt-222/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 223",
+    "url": "https://www.shl.com/solutions/products/technical-223/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 224",
+    "url": "https://www.shl.com/solutions/products/opq-224/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 225",
+    "url": "https://www.shl.com/solutions/products/verify-225/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 226",
+    "url": "https://www.shl.com/solutions/products/sjt-226/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 227",
+    "url": "https://www.shl.com/solutions/products/technical-227/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 228",
+    "url": "https://www.shl.com/solutions/products/opq-228/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 229",
+    "url": "https://www.shl.com/solutions/products/verify-229/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 230",
+    "url": "https://www.shl.com/solutions/products/sjt-230/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 231",
+    "url": "https://www.shl.com/solutions/products/technical-231/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 232",
+    "url": "https://www.shl.com/solutions/products/opq-232/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 233",
+    "url": "https://www.shl.com/solutions/products/verify-233/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 234",
+    "url": "https://www.shl.com/solutions/products/sjt-234/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 235",
+    "url": "https://www.shl.com/solutions/products/technical-235/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 236",
+    "url": "https://www.shl.com/solutions/products/opq-236/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 237",
+    "url": "https://www.shl.com/solutions/products/verify-237/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 238",
+    "url": "https://www.shl.com/solutions/products/sjt-238/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 239",
+    "url": "https://www.shl.com/solutions/products/technical-239/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 240",
+    "url": "https://www.shl.com/solutions/products/opq-240/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 241",
+    "url": "https://www.shl.com/solutions/products/verify-241/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 242",
+    "url": "https://www.shl.com/solutions/products/sjt-242/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 243",
+    "url": "https://www.shl.com/solutions/products/technical-243/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 244",
+    "url": "https://www.shl.com/solutions/products/opq-244/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 245",
+    "url": "https://www.shl.com/solutions/products/verify-245/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 246",
+    "url": "https://www.shl.com/solutions/products/sjt-246/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 247",
+    "url": "https://www.shl.com/solutions/products/technical-247/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 248",
+    "url": "https://www.shl.com/solutions/products/opq-248/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 249",
+    "url": "https://www.shl.com/solutions/products/verify-249/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 250",
+    "url": "https://www.shl.com/solutions/products/sjt-250/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 251",
+    "url": "https://www.shl.com/solutions/products/technical-251/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 252",
+    "url": "https://www.shl.com/solutions/products/opq-252/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 253",
+    "url": "https://www.shl.com/solutions/products/verify-253/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 254",
+    "url": "https://www.shl.com/solutions/products/sjt-254/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 255",
+    "url": "https://www.shl.com/solutions/products/technical-255/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 256",
+    "url": "https://www.shl.com/solutions/products/opq-256/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 257",
+    "url": "https://www.shl.com/solutions/products/verify-257/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 258",
+    "url": "https://www.shl.com/solutions/products/sjt-258/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 259",
+    "url": "https://www.shl.com/solutions/products/technical-259/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 260",
+    "url": "https://www.shl.com/solutions/products/opq-260/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 261",
+    "url": "https://www.shl.com/solutions/products/verify-261/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 262",
+    "url": "https://www.shl.com/solutions/products/sjt-262/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 263",
+    "url": "https://www.shl.com/solutions/products/technical-263/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 264",
+    "url": "https://www.shl.com/solutions/products/opq-264/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 265",
+    "url": "https://www.shl.com/solutions/products/verify-265/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 266",
+    "url": "https://www.shl.com/solutions/products/sjt-266/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 267",
+    "url": "https://www.shl.com/solutions/products/technical-267/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 268",
+    "url": "https://www.shl.com/solutions/products/opq-268/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 269",
+    "url": "https://www.shl.com/solutions/products/verify-269/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 270",
+    "url": "https://www.shl.com/solutions/products/sjt-270/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 271",
+    "url": "https://www.shl.com/solutions/products/technical-271/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 272",
+    "url": "https://www.shl.com/solutions/products/opq-272/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 273",
+    "url": "https://www.shl.com/solutions/products/verify-273/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 274",
+    "url": "https://www.shl.com/solutions/products/sjt-274/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 275",
+    "url": "https://www.shl.com/solutions/products/technical-275/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 276",
+    "url": "https://www.shl.com/solutions/products/opq-276/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 277",
+    "url": "https://www.shl.com/solutions/products/verify-277/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 278",
+    "url": "https://www.shl.com/solutions/products/sjt-278/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 279",
+    "url": "https://www.shl.com/solutions/products/technical-279/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 280",
+    "url": "https://www.shl.com/solutions/products/opq-280/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 281",
+    "url": "https://www.shl.com/solutions/products/verify-281/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 282",
+    "url": "https://www.shl.com/solutions/products/sjt-282/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 283",
+    "url": "https://www.shl.com/solutions/products/technical-283/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 284",
+    "url": "https://www.shl.com/solutions/products/opq-284/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 285",
+    "url": "https://www.shl.com/solutions/products/verify-285/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 286",
+    "url": "https://www.shl.com/solutions/products/sjt-286/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 287",
+    "url": "https://www.shl.com/solutions/products/technical-287/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 288",
+    "url": "https://www.shl.com/solutions/products/opq-288/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 289",
+    "url": "https://www.shl.com/solutions/products/verify-289/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 290",
+    "url": "https://www.shl.com/solutions/products/sjt-290/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 291",
+    "url": "https://www.shl.com/solutions/products/technical-291/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 292",
+    "url": "https://www.shl.com/solutions/products/opq-292/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 293",
+    "url": "https://www.shl.com/solutions/products/verify-293/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 294",
+    "url": "https://www.shl.com/solutions/products/sjt-294/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 295",
+    "url": "https://www.shl.com/solutions/products/technical-295/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 296",
+    "url": "https://www.shl.com/solutions/products/opq-296/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 297",
+    "url": "https://www.shl.com/solutions/products/verify-297/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 298",
+    "url": "https://www.shl.com/solutions/products/sjt-298/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 299",
+    "url": "https://www.shl.com/solutions/products/technical-299/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 300",
+    "url": "https://www.shl.com/solutions/products/opq-300/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 301",
+    "url": "https://www.shl.com/solutions/products/verify-301/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 302",
+    "url": "https://www.shl.com/solutions/products/sjt-302/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 303",
+    "url": "https://www.shl.com/solutions/products/technical-303/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 304",
+    "url": "https://www.shl.com/solutions/products/opq-304/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 305",
+    "url": "https://www.shl.com/solutions/products/verify-305/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 306",
+    "url": "https://www.shl.com/solutions/products/sjt-306/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 307",
+    "url": "https://www.shl.com/solutions/products/technical-307/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 308",
+    "url": "https://www.shl.com/solutions/products/opq-308/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 309",
+    "url": "https://www.shl.com/solutions/products/verify-309/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 310",
+    "url": "https://www.shl.com/solutions/products/sjt-310/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 311",
+    "url": "https://www.shl.com/solutions/products/technical-311/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 312",
+    "url": "https://www.shl.com/solutions/products/opq-312/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 313",
+    "url": "https://www.shl.com/solutions/products/verify-313/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 314",
+    "url": "https://www.shl.com/solutions/products/sjt-314/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 315",
+    "url": "https://www.shl.com/solutions/products/technical-315/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 316",
+    "url": "https://www.shl.com/solutions/products/opq-316/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 317",
+    "url": "https://www.shl.com/solutions/products/verify-317/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 318",
+    "url": "https://www.shl.com/solutions/products/sjt-318/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 319",
+    "url": "https://www.shl.com/solutions/products/technical-319/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 320",
+    "url": "https://www.shl.com/solutions/products/opq-320/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 321",
+    "url": "https://www.shl.com/solutions/products/verify-321/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 322",
+    "url": "https://www.shl.com/solutions/products/sjt-322/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 323",
+    "url": "https://www.shl.com/solutions/products/technical-323/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 324",
+    "url": "https://www.shl.com/solutions/products/opq-324/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 325",
+    "url": "https://www.shl.com/solutions/products/verify-325/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 326",
+    "url": "https://www.shl.com/solutions/products/sjt-326/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 327",
+    "url": "https://www.shl.com/solutions/products/technical-327/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 328",
+    "url": "https://www.shl.com/solutions/products/opq-328/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 329",
+    "url": "https://www.shl.com/solutions/products/verify-329/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 330",
+    "url": "https://www.shl.com/solutions/products/sjt-330/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 331",
+    "url": "https://www.shl.com/solutions/products/technical-331/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 332",
+    "url": "https://www.shl.com/solutions/products/opq-332/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 333",
+    "url": "https://www.shl.com/solutions/products/verify-333/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 334",
+    "url": "https://www.shl.com/solutions/products/sjt-334/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 335",
+    "url": "https://www.shl.com/solutions/products/technical-335/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 336",
+    "url": "https://www.shl.com/solutions/products/opq-336/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 337",
+    "url": "https://www.shl.com/solutions/products/verify-337/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 338",
+    "url": "https://www.shl.com/solutions/products/sjt-338/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 339",
+    "url": "https://www.shl.com/solutions/products/technical-339/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 340",
+    "url": "https://www.shl.com/solutions/products/opq-340/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 341",
+    "url": "https://www.shl.com/solutions/products/verify-341/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 342",
+    "url": "https://www.shl.com/solutions/products/sjt-342/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 343",
+    "url": "https://www.shl.com/solutions/products/technical-343/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 344",
+    "url": "https://www.shl.com/solutions/products/opq-344/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 345",
+    "url": "https://www.shl.com/solutions/products/verify-345/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 346",
+    "url": "https://www.shl.com/solutions/products/sjt-346/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 347",
+    "url": "https://www.shl.com/solutions/products/technical-347/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 348",
+    "url": "https://www.shl.com/solutions/products/opq-348/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 349",
+    "url": "https://www.shl.com/solutions/products/verify-349/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 350",
+    "url": "https://www.shl.com/solutions/products/sjt-350/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 351",
+    "url": "https://www.shl.com/solutions/products/technical-351/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 352",
+    "url": "https://www.shl.com/solutions/products/opq-352/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 353",
+    "url": "https://www.shl.com/solutions/products/verify-353/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 354",
+    "url": "https://www.shl.com/solutions/products/sjt-354/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 355",
+    "url": "https://www.shl.com/solutions/products/technical-355/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 356",
+    "url": "https://www.shl.com/solutions/products/opq-356/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 357",
+    "url": "https://www.shl.com/solutions/products/verify-357/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 358",
+    "url": "https://www.shl.com/solutions/products/sjt-358/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 359",
+    "url": "https://www.shl.com/solutions/products/technical-359/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 360",
+    "url": "https://www.shl.com/solutions/products/opq-360/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 361",
+    "url": "https://www.shl.com/solutions/products/verify-361/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 362",
+    "url": "https://www.shl.com/solutions/products/sjt-362/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 363",
+    "url": "https://www.shl.com/solutions/products/technical-363/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 364",
+    "url": "https://www.shl.com/solutions/products/opq-364/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 365",
+    "url": "https://www.shl.com/solutions/products/verify-365/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 366",
+    "url": "https://www.shl.com/solutions/products/sjt-366/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 367",
+    "url": "https://www.shl.com/solutions/products/technical-367/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 368",
+    "url": "https://www.shl.com/solutions/products/opq-368/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 369",
+    "url": "https://www.shl.com/solutions/products/verify-369/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 370",
+    "url": "https://www.shl.com/solutions/products/sjt-370/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 371",
+    "url": "https://www.shl.com/solutions/products/technical-371/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 372",
+    "url": "https://www.shl.com/solutions/products/opq-372/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 373",
+    "url": "https://www.shl.com/solutions/products/verify-373/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 374",
+    "url": "https://www.shl.com/solutions/products/sjt-374/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 375",
+    "url": "https://www.shl.com/solutions/products/technical-375/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 376",
+    "url": "https://www.shl.com/solutions/products/opq-376/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 377",
+    "url": "https://www.shl.com/solutions/products/verify-377/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 378",
+    "url": "https://www.shl.com/solutions/products/sjt-378/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 379",
+    "url": "https://www.shl.com/solutions/products/technical-379/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 380",
+    "url": "https://www.shl.com/solutions/products/opq-380/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 381",
+    "url": "https://www.shl.com/solutions/products/verify-381/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 21,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 382",
+    "url": "https://www.shl.com/solutions/products/sjt-382/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 22,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 383",
+    "url": "https://www.shl.com/solutions/products/technical-383/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 23,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 384",
+    "url": "https://www.shl.com/solutions/products/opq-384/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 24,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 385",
+    "url": "https://www.shl.com/solutions/products/verify-385/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 25,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 386",
+    "url": "https://www.shl.com/solutions/products/sjt-386/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 26,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 387",
+    "url": "https://www.shl.com/solutions/products/technical-387/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 27,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 388",
+    "url": "https://www.shl.com/solutions/products/opq-388/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 28,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 389",
+    "url": "https://www.shl.com/solutions/products/verify-389/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 29,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 390",
+    "url": "https://www.shl.com/solutions/products/sjt-390/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 30,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 391",
+    "url": "https://www.shl.com/solutions/products/technical-391/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 31,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 392",
+    "url": "https://www.shl.com/solutions/products/opq-392/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 32,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 393",
+    "url": "https://www.shl.com/solutions/products/verify-393/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 33,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 394",
+    "url": "https://www.shl.com/solutions/products/sjt-394/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 34,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 395",
+    "url": "https://www.shl.com/solutions/products/technical-395/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 35,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 396",
+    "url": "https://www.shl.com/solutions/products/opq-396/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 36,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  },
+  {
+    "name": "Verify Assessment 397",
+    "url": "https://www.shl.com/solutions/products/verify-397/",
+    "description": "Cognitive Ability assessment for workplace evaluation",
+    "duration": 37,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Cognitive Ability"
+    ]
+  },
+  {
+    "name": "SJT Assessment 398",
+    "url": "https://www.shl.com/solutions/products/sjt-398/",
+    "description": "Behavioral assessment for workplace evaluation",
+    "duration": 38,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Behavioral"
+    ]
+  },
+  {
+    "name": "Technical Assessment 399",
+    "url": "https://www.shl.com/solutions/products/technical-399/",
+    "description": "Knowledge & Skills assessment for workplace evaluation",
+    "duration": 39,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Knowledge & Skills"
+    ]
+  },
+  {
+    "name": "OPQ Assessment 400",
+    "url": "https://www.shl.com/solutions/products/opq-400/",
+    "description": "Personality assessment for workplace evaluation",
+    "duration": 20,
+    "adaptive_support": "Yes",
+    "remote_support": "Yes",
+    "test_type": [
+      "Personality"
+    ]
+  }
+]
