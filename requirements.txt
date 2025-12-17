@@ -1,10 +1,10 @@
 fastapi
 uvicorn
-requests
-beautifulsoup4
+numpy
+scikit-learn
 sentence-transformers
-numpy==1.26.4
-pandas
-streamlit
+torch
+
+
 
 
